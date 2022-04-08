@@ -1,14 +1,4 @@
-# Data-Structures
-Two programs - Shell Collection and Account Management System
-
-## Shell Collection  
-First creates a list of shells that the user enters counts for how many there are of each. Creates a tuple of the names and amounts, and assuming Puka 
-shells are worth $1.00 each, Cone shells $1.50 each, Driftwood $0.50, Sea Glass $2.00 and Starfish $2.50, it creates a list of tuples containing name, amount,
-and cost. 
-
-Prints out a bar graph with the distribution of the collection of shells.
-
-## Account Management System
+# Account Management System
 Creates a list of usersnames that the user is then asked to enter a passowrd for each, creating a dictionary of usernames and passwords.
 
 A function logs in the user. If the entered username is wrong, the process is restarted. If the username is right, but the password is wrong the user has 2 more 
